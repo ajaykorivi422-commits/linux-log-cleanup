@@ -11,3 +11,23 @@ Designed for practicing Linux system maintenance tasks and Git workflows.
 - Practice Git version control and automation
 
 **Technologies:** Python 3, Bash, Linux CLI, Git
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Usage
+
+1. Clone the repository:
+
+```bash
+git clone git@github.com:ajaykorivi422-commits/linux-log-cleanup.git
+cd linux-log-cleanup
